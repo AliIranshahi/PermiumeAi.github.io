@@ -1,0 +1,11 @@
+@use"boot";
+@use"layout";
+@use"fonts";
+@use"header";
+@use"main";
+@use"animate";
+@use"swiper";
+body{
+    $color-body : #090909;
+    background-color: $color-body;
+}
